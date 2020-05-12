@@ -1,0 +1,8 @@
+.box {
+    background-color: white;
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    min-height: 240px;
+}
